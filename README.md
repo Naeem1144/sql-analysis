@@ -1,1 +1,1 @@
-# A SQL project that I have completed
+# A SQL project that I have worked on
